@@ -1,5 +1,5 @@
 {
-  "name": "homebridge-lightwaverf",
+  "name": "homebridge-lightwaverf-evops",
   "version": "0.2.1",
   "description": "LightwaveRF plugin for homebridge: https://github.com/nfarina/homebridge",
   "license": "ISC",
@@ -15,6 +15,6 @@
     "homebridge": ">=0.2.0"
   },
   "dependencies": {
-    "lightwaverf": "https://github.com/rooi/node-lightwaverf.git"
+    "lightwaverf": "https://github.com/eu-evops/node-lightwaverf.git"
   }
 }
